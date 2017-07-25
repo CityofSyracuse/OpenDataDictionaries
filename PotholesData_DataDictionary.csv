@@ -1,0 +1,8 @@
+Column Header,Description,,
+truck_name,"Name of the truck that filled the pothole. In Syracuse, there are two durapatcher trucks, DP1 and DP2",,
+repair_type,Department that fills potholes,,
+date_fixed,Date and time pothole was filled. YYYY-MM-DD HH:MM:SS,,
+address,Closest address to where the pothole was filled.,,
+activity_type,,,
+longitude,Longitude of the pothole,,
+latitude,Latitude of the pothole,,
