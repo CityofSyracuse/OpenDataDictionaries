@@ -1,12 +1,12 @@
-Column Header,Description,,
-fullDate,Date of water main break,,
-location,closest address to where water main break occurred,,
-leakClass,"Rated on a scale of 1-4, severity of the water main break",,
-month,Month of water main break,,
-date,Date of month of water main break,,
-weekday,Weekday of water main break,,
-year,Year of water main break,,
-week,Week of year of water main break,,
-lon,Longitude of the pothole,,
-lat,Latitude of the pothole,,
-TNT_NAME,Tomorrow’s Neighborhood Today area where water main break occurred.,,
+Column Header,Description
+fullDate,Date of water main break
+location,closest address to where water main break occurred
+leakClass,"Rated on a scale of 1-4, severity of the water main break. See here for scale: https://github.com/CityofSyracuse/OpenDataDictionaries/blob/master/Main%20Break%20Categories.pdf"
+month,Month of water main break
+date,Date of month of water main break
+weekday,Weekday of water main break
+year,Year of water main break
+week,Week of year of water main break
+lon,Longitude of the pothole
+lat,Latitude of the pothole
+TNT_NAME,Tomorrow’s Neighborhood Today area where water main break occurred.
