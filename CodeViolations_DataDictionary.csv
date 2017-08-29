@@ -1,0 +1,19 @@
+Column Header,Description
+violation_name,Type of violation 
+violation_date,Date of violation
+comply_by_date,Date compliance is required - this is determined by the codes inspector and varies based on severity of the violation
+violation_status,Status of the violation
+case_number,"Case number - some properties have multiple violations. In these cases, each violation is stored within one case"
+case_type,Type of case
+case_open_date,Open Date
+property_owner_name,Owner of the property
+property_address,Address of the property
+property_zip,Zip code for the property
+property_id,Unique identifier for the property
+inspector_id,Unique identifier for the inspector
+property_neighborhood,Neighborhood where the property is located
+vacant_property,"Vacant properties are marked with a ""Y"""
+owner_address,Address of the property owner
+owner_city,City where the property owner resides
+owner_state,State where the property owner resides
+owner_zip,Zip code where the property owner resides

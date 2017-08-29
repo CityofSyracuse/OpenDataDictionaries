@@ -1,0 +1,15 @@
+Column Heading,Description
+property_owner_name,Name of the property owner - sometimes this can be a business or LLC that is the owner
+case_number,Unique identifier for this case
+case_open_date,Open Date
+nature_of_complaint,Description of violation
+case_type,Type of violation
+case_status,Status of the case
+property_id,Unique identifier for the property
+property_address,Address of the property
+property_zip,Zip code of the property
+vacant_property,"If property is vacant, it is marked with a ""Y"""
+property_owner_address,Address of the property owner
+property_owner_city,City where the property owner resides
+property_owner_state,State where the property owner resides
+property_owner_zip,Zip code where the property owner resides
