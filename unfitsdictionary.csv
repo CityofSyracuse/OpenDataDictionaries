@@ -1,0 +1,14 @@
+Column Heading,Description
+identifier, Unique property identifier
+complaint_number, unique identifier for complaint
+violation_date, date violation issued
+comply_by_date, date for which violation should be resolved
+status_type_name, status of the violation
+number, Address number for property
+address, street name for property
+zip,,
+owner_name, name of the owner of the property 
+neighborhood, neighborhood where the property is located
+long, longitude
+lat, latitutde
+TNT_NAME, TNT sector where property is located

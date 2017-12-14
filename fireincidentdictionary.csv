@@ -1,0 +1,13 @@
+Column Heading,Description
+incidentnumber, unique id for incident
+alarmdate, date and time alarm sounded
+arrivaldate, date and time first responder arrived
+lastunitcleareddate, date and time the last unit left
+station, station responding to incident
+shift, shift number responding to incident
+incidenttype, incident types as laid out by NFPA guidelines
+propertyuse, type of property involved in incident
+compositeaddress, location of incident
+postalcode,,
+X, longitude
+Y, latitude

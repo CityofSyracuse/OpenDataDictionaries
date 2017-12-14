@@ -1,0 +1,8 @@
+Column Heading,Description
+Fund, identifier for the fund
+Dept, identifier for the department
+Account, identifier for the account
+Sum.Amount, Amount budgeted
+Account.Name, Name of budget account
+Dept.Name, Name of department
+Fund.Name, name of fund

@@ -1,0 +1,14 @@
+Column Heading,Description
+identifier, Unique property identifier
+number, Address number for property
+address, street name for property
+city,,
+zip,,
+permit_type_description, type of permit for which applicant has applied
+status_type_name, status of permit
+application_date, date at which application was submitted
+application_number, unique id for the application
+project_valuation, total value of the project
+payment, amount paid for the permit
+long, longitude
+lat, latitutde
