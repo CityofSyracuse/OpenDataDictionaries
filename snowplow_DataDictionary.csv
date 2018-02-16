@@ -1,7 +1,7 @@
 Column Header,Description
 First Column, Row ID
 truck_name, Name of truck driving
-repair_type, Type of truck (all will be "Snow & Ice")
+repair_type, Type of truck (all will be Snow & Ice)
 date_fixed, time logged on the unit for each individual reading - readings happen every minute or if the truck is doing something
 address, location address the truck is closest to
 activity type, The specific work the truck is doing - if blank then refer to the most recent action the truck took (if the plow was down before it remains down until the activity type says "plow up")
