@@ -1,0 +1,19 @@
+Column Heading,Description
+When,"Date survey was completed (some surveys were taken online, others were collected at events, and others were completed on paper and then entered into this spreadsheet)"
+Which of the following challenge areas should the i-team work on? - Sidewalks,"Positive, negative, or neutral vote for sidewalk priorities"
+Which of the following challenge areas should the i-team work on? - Housing Stability,"Positive, negative, or neutral vote for housing stability priorities"
+Which of the following challenge areas should the i-team work on? - Neighborhood Beautification,"Positive, negative, or neutral vote for neighborhood beutification priorities"
+Which of the following challenge areas should the i-team work on? - Alternative Transportation,"Positive, negative, or neutral vote for alternative transportation priorities"
+Which of the following challenge areas should the i-team work on? - Neighborhood Business Districts,"Positive, negative, or neutral vote for neighborhood and business district priorities"
+Which of the following challenge areas should the i-team work on? - Sustainability & Renewable Energy,"Positive, negative, or neutral vote for sustainability & renewable energy priorities"
+Do you like being engaged through this platform? - Yes,Feedback collected about users' opinions on using the software to collect priority votes
+Do you like being engaged through this platform? - Maybe,Feedback collected about users' opinions on using the software to collect priority votes
+Do you like being engaged through this platform? - No,Feedback collected about users' opinions on using the software to collect priority votes
+What neighborhood do you live in? - value,Neighborhood where the survey-taker lives
+What neighborhood do you live in? - other,Neighborhood where the survey-taker lives - other
+Age - value,Age of survey taker
+Gender - value,Gender of survey taker
+Education - value,Education of survey taker
+Country of Origin,Country of origin of survey taker
+Preferred Language,Preferred language of survey taker
+Annual Income - value,Annual income of survey taker
