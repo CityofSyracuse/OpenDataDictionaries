@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en">
+	<Esri>
+		<CreaDate>2022-02-24</CreaDate>
+		<CreaTime>15:51:29.98</CreaTime>
+		<ModDate>2022-03-04</ModDate>
+		<ModTime>16:10:12.04</ModTime>
+		<PublishStatus>editor:esri.dijit.metadata.editor</PublishStatus>
+		<ArcGISFormat>1.0</ArcGISFormat>
+		<ArcGISstyle>FGDC CSDGM Metadata</ArcGISstyle>
+		<ArcGISProfile>FGDC</ArcGISProfile>
+		<MapLyrSync>false</MapLyrSync>
+	</Esri>
+	<mdFileID>007352dde614431d873b1d29b5cc270d</mdFileID>
+	<mdChar>
+		<CharSetCd value="004"/>
+	</mdChar>
+	<mdContact>
+		<rpOrgName>City of Syracuse - Office of Accountability, Performance, and Innovation (api)</rpOrgName>
+		<rpPosName>Data Program Manager</rpPosName>
+		<role>
+			<RoleCd value="007"/>
+		</role>
+		<rpCntInfo>
+			<cntAddress>
+				<eMailAdd>opendata@syrgov.net</eMailAdd>
+				<city>Syracuse, NY</city>
+			</cntAddress>
+		</rpCntInfo>
+	</mdContact>
+	<mdDateSt>2022-02-25</mdDateSt>
+	<mdTimeSt>10:00:45.42</mdTimeSt>
+	<dataIdInfo>
+		<idCitation>
+			<resTitle>Syracuse PD Personnel Complaints (2021)</resTitle>
+			<citRespParty>
+				<role>
+					<RoleCd value="006"/>
+				</role>
+			</citRespParty>
+		</idCitation>
+		<idAbs>Information regarding personnel complaints made to the City of Syracuse Police Department&apos;s Internal Affairs Department. These complaints are are ported to either a police Captain or Sargeant, to the Syracuse Police Department at: https://www.syracusepolice.org/complaints.asp, or made to the Citizens Review Board (CRB).&lt;br /&gt;&lt;br /&gt;&lt;div&gt;&lt;b&gt;Date_Complaint: &lt;/b&gt; Date that the complaint investigation was closed.  Reported in MM/DD/YYYY, HH:MM AM/PM format.  Time is always reported as 12:00 AM.&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Date_of_Closure:&lt;/b&gt;  Date that the complaint was received by the person/agency described in &amp;quot;Complaint_Initially_Received_By&amp;quot; column.  Reported in MM/DD/YYYY, HH:MM AM/PM format.  Time is always reported as 12:00 AM.&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;DR_Number:&lt;/b&gt;  Department Report (DR) number is a unique number assigned by the Records Management System, the first two numbers identify the year in which the incident was reported.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Complaint_Initially_Received_by:&lt;/b&gt;  The person or agency that received the initial complaint about the police officer.&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Number_of_Complainants: &lt;/b&gt; The number of members of the community that made complaints regarding this police officer interaction.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Number_of_officers_involved: &lt;/b&gt; The number of police officers that were involved in the event reported by the person making the complaint.\&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Number_of_officers_against_whom_allegations_were_made:  &lt;/b&gt;The number of police officers that complaints were made against during this event.&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Allegations_Made: &lt;/b&gt; The specific allegations that were made against the police officer(s) in the complaint.&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Allegations_Sustained:&lt;/b&gt;  Whether or not the allegations made against the officer(s) were decided to be true (sustained).  States either &amp;quot;Yes&amp;quot;, &amp;quot;No&amp;quot;, or is and empty field of the complaint investigation is still open.&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Number_of_officers_against_whom_allegations_were_sustained:&lt;/b&gt;  The number of police officers that were determined to have been found guilty of the infraction in the Allegations_Made column.&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Allegations_Unfounded:  &lt;/b&gt;The number of police officers that were determined to have been found unfounded of the complaint in the Allegations_Made column.&lt;br /&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Allegations_Unsubstantiated: &lt;/b&gt; The number of police officers that were determined to have been found unsubstantiated of the complaint in the Allegations_Made column.&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Number_of_officers_subjected_to_disciplinary_action:&lt;/b&gt;  The number of police officers that were subjected to discipline as a result of the investigation determination regarding the complaint.&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Disciplinary_Action:&lt;/b&gt;  The Police Department&apos;s disciplinary action (if any was taken) taken towards the police officer determined to have been found guilty of the infraction.  This field will be empty if no disciplinary action was taken or the investigation is still open.&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Non_Disciplinary_Actions:&lt;/b&gt;  The Police Department&apos;s disciplinary action (if any was taken) taken towards the police officer determined to have been found guilty of the infraction.  This field will be empty if no disciplinary action was taken or the investigation is still open.&lt;/div&gt;</idAbs>
+		<idPurp>Information regarding personnel complaints made to the City of Syracuse Police Department&apos;s Internal Affairs Department.</idPurp>
+		<idCredit>Syracuse Police Department</idCredit>
+		<dataChar>
+			<CharSetCd value="004"/>
+		</dataChar>
+		<searchKeys>
+			<keyword>Crime</keyword>
+			<keyword>Police</keyword>
+			<keyword>SPD</keyword>
+			<keyword>crime</keyword>
+			<keyword>police</keyword>
+		</searchKeys>
+		<resConst>
+			<Consts>
+				<useLimit>&lt;a href=&apos;https://data.syrgov.net/pages/termsofuse&apos; target=&apos;_blank&apos; rel=&apos;nofollow ugc noopener noreferrer&apos;&gt;Terms of Use&lt;/a&gt;</useLimit>
+			</Consts>
+		</resConst>
+		<resConst>
+			<LegConsts>
+				<accessConsts>
+					<RestrictCd value="008"/>
+				</accessConsts>
+				<othConsts>Other Constraints</othConsts>
+			</LegConsts>
+		</resConst>
+		<resConst>
+			<LegConsts>
+				<useConsts>
+					<RestrictCd value="008"/>
+				</useConsts>
+				<othConsts>Other Constraints</othConsts>
+			</LegConsts>
+		</resConst>
+		<resConst>
+			<LegConsts>
+				<accessConsts>
+					<RestrictCd value="008"/>
+				</accessConsts>
+				<othConsts>Other Constraints</othConsts>
+			</LegConsts>
+		</resConst>
+		<resConst>
+			<LegConsts>
+				<useConsts>
+					<RestrictCd value="008"/>
+				</useConsts>
+				<othConsts>Other Constraints</othConsts>
+			</LegConsts>
+		</resConst>
+		<resConst>
+			<LegConsts>
+				<accessConsts>
+					<RestrictCd value="008"/>
+				</accessConsts>
+				<othConsts>Other Constraints</othConsts>
+			</LegConsts>
+		</resConst>
+		<resConst>
+			<LegConsts>
+				<useConsts>
+					<RestrictCd value="008"/>
+				</useConsts>
+				<othConsts>Other Constraints</othConsts>
+			</LegConsts>
+		</resConst>
+		<resConst>
+			<LegConsts>
+				<accessConsts>
+					<RestrictCd value="008"/>
+				</accessConsts>
+				<othConsts>Other Constraints</othConsts>
+			</LegConsts>
+		</resConst>
+		<resConst>
+			<LegConsts>
+				<useConsts>
+					<RestrictCd value="008"/>
+				</useConsts>
+				<othConsts>Other Constraints</othConsts>
+			</LegConsts>
+		</resConst>
+		<resConst>
+			<LegConsts>
+				<accessConsts>
+					<RestrictCd value="008"/>
+				</accessConsts>
+				<othConsts>Other Constraints</othConsts>
+			</LegConsts>
+		</resConst>
+		<resConst>
+			<LegConsts>
+				<useConsts>
+					<RestrictCd value="008"/>
+				</useConsts>
+				<othConsts>Other Constraints</othConsts>
+			</LegConsts>
+		</resConst>
+		<resConst>
+			<LegConsts>
+				<accessConsts>
+					<RestrictCd value="008"/>
+				</accessConsts>
+				<othConsts>Other Constraints</othConsts>
+			</LegConsts>
+		</resConst>
+		<resConst>
+			<LegConsts>
+				<useConsts>
+					<RestrictCd value="008"/>
+				</useConsts>
+				<othConsts>Other Constraints</othConsts>
+			</LegConsts>
+		</resConst>
+		<resConst>
+			<LegConsts>
+				<accessConsts>
+					<RestrictCd value="008"/>
+				</accessConsts>
+				<othConsts>Other Constraints</othConsts>
+			</LegConsts>
+		</resConst>
+		<resConst>
+			<LegConsts>
+				<useConsts>
+					<RestrictCd value="008"/>
+				</useConsts>
+				<othConsts>Other Constraints</othConsts>
+			</LegConsts>
+		</resConst>
+		<resConst>
+			<LegConsts>
+				<accessConsts>
+					<RestrictCd value="008"/>
+				</accessConsts>
+				<othConsts>Other Constraints</othConsts>
+			</LegConsts>
+		</resConst>
+		<resConst>
+			<LegConsts>
+				<useConsts>
+					<RestrictCd value="008"/>
+				</useConsts>
+				<othConsts>Other Constraints</othConsts>
+			</LegConsts>
+		</resConst>
+		<resConst>
+			<LegConsts>
+				<accessConsts>
+					<RestrictCd value="008"/>
+				</accessConsts>
+				<othConsts>Other Constraints</othConsts>
+			</LegConsts>
+		</resConst>
+		<resConst>
+			<LegConsts>
+				<useConsts>
+					<RestrictCd value="008"/>
+				</useConsts>
+				<othConsts>Other Constraints</othConsts>
+			</LegConsts>
+		</resConst>
+		<resConst>
+			<LegConsts>
+				<accessConsts>
+					<RestrictCd value="008"/>
+				</accessConsts>
+				<othConsts>Other Constraints</othConsts>
+			</LegConsts>
+		</resConst>
+		<resConst>
+			<LegConsts>
+				<useConsts>
+					<RestrictCd value="008"/>
+				</useConsts>
+				<othConsts>Other Constraints</othConsts>
+			</LegConsts>
+		</resConst>
+		<resConst>
+			<LegConsts>
+				<accessConsts>
+					<RestrictCd value="008"/>
+				</accessConsts>
+				<othConsts>Other Constraints</othConsts>
+			</LegConsts>
+		</resConst>
+		<resConst>
+			<LegConsts>
+				<useConsts>
+					<RestrictCd value="008"/>
+				</useConsts>
+				<othConsts>Other Constraints</othConsts>
+			</LegConsts>
+		</resConst>
+		<resConst>
+			<LegConsts>
+				<accessConsts>
+					<RestrictCd value="008"/>
+				</accessConsts>
+				<othConsts>Other Constraints</othConsts>
+			</LegConsts>
+		</resConst>
+		<resConst>
+			<LegConsts>
+				<useConsts>
+					<RestrictCd value="008"/>
+				</useConsts>
+				<othConsts>Other Constraints</othConsts>
+			</LegConsts>
+		</resConst>
+		<resConst>
+			<LegConsts>
+				<accessConsts>
+					<RestrictCd value="008"/>
+				</accessConsts>
+				<othConsts>Other Constraints</othConsts>
+			</LegConsts>
+		</resConst>
+		<resConst>
+			<LegConsts>
+				<useConsts>
+					<RestrictCd value="008"/>
+				</useConsts>
+				<othConsts>Other Constraints</othConsts>
+			</LegConsts>
+		</resConst>
+		<resConst>
+			<LegConsts>
+				<accessConsts>
+					<RestrictCd value="008"/>
+				</accessConsts>
+				<othConsts>Other Constraints</othConsts>
+			</LegConsts>
+		</resConst>
+		<resConst>
+			<LegConsts>
+				<useConsts>
+					<RestrictCd value="008"/>
+				</useConsts>
+				<othConsts>Other Constraints</othConsts>
+			</LegConsts>
+		</resConst>
+	</dataIdInfo>
+	<distInfo>
+		<distTranOps>
+			<onLineSrc>
+				<linkage>https://services6.arcgis.com/bdPqSfflsdgFRVVM/arcgis/rest/services/Syracuse_PD_Personnel_Complaints_(2021)/FeatureServer</linkage>
+			</onLineSrc>
+		</distTranOps>
+	</distInfo>
+	<eainfo>
+		<detailed>
+			<enttyp>
+				<enttypl>Syracuse PD Personnel Complaints (2021)</enttypl>
+				<enttypd>Information regarding personnel complaints made to the City of Syracuse Police Department&apos;s Internal Affairs Department.</enttypd>
+				<enttypds>Syracuse Police Department (SPD)</enttypds>
+			</enttyp>
+			<attr>
+				<attrlabl>Date_Complaint</attrlabl>
+				<attrdef>Date that the complaint investigation was closed.  Reported in MM/DD/YYYY, HH:MM AM/PM forman.  Time is always reported as 12:00 AM.</attrdef>
+				<attrdefs>SPD</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>Date_of_Closure</attrlabl>
+				<attrdef>Date that the complaint was received by the person/agency descrived in Complaint_Initially_Received_By column.  Reported in MM/DD/YYYY, HH:MM AM/PM forman.  Time is always reported as 12:00 AM.</attrdef>
+				<attrdefs>SPD</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>DR_Number</attrlabl>
+				<attrdef>Department Report (DR) number is a unique number assigned by the Records Management System, the first two numbers identify the year in which the incident was reported.</attrdef>
+				<attrdefs>SPD</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>Complaint_Initially_Received_by</attrlabl>
+				<attrdef>The person or agency that received the initial complaint about the police officer.</attrdef>
+				<attrdefs>SPD</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>Number_of_Complainants</attrlabl>
+				<attrdef>The number of members of the community that made complaints regarding this police officer interaction.</attrdef>
+				<attrdefs>SPD</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>Number_of_officers_involved</attrlabl>
+				<attrdef>The number of police officers that were involved in the event reported by the person making the complaint.</attrdef>
+				<attrdefs>SPD</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>Number_of_officers_against_whom_allegations_were_made</attrlabl>
+				<attrdef>The number of police officers that complaints were made against during this event.</attrdef>
+				<attrdefs>SPD</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>Allegations_Made</attrlabl>
+				<attrdef>The specific allegations that were made against the police officer(s) in the complaint.</attrdef>
+				<attrdefs>SPD</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>Allegations_Sustained</attrlabl>
+				<attrdef>Whether or not the allegations made against the officer(s) were decided to be true (sustained).  States either &quot;Yes&quot;, &quot;No&quot;, or is and empty field of the complaint investigation is still open.</attrdef>
+				<attrdefs>SPD</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>Number_of_officers_against_whom_allegations_were_sustained</attrlabl>
+				<attrdef>The number of police officers that were determined to have been found guilty of the infraction in the Allegations_Made column.</attrdef>
+				<attrdefs>SPD</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>Allegations_Unfounded</attrlabl>
+				<attrdef>The number of police officers that were determined to have been found unfounded of the complaint in the Allegations_Made column.</attrdef>
+				<attrdefs>SPD</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>Allegations_Unsubstantiated</attrlabl>
+				<attrdef>The number of police officers that were determined to have been found sunsubstantiated of the complaint in the Allegations_Made column.</attrdef>
+				<attrdefs>SPD</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>Number_of_officers_subjected_to_disciplinary_action</attrlabl>
+				<attrdef>The number of police officers that were subjected to discipline as a result of the investigation determination regarding the complaint.</attrdef>
+				<attrdefs>SPD</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>Disciplinary_Action</attrlabl>
+				<attrdef>The Police Department&apos;s disciplinary action (if any was taken) taken towards the police officer determined to have been found guilty of the infraction.  This field will be empty if no disciplinary action was taken or the investigation is still open.</attrdef>
+				<attrdefs>SPD</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>Non_Disciplinary_Actions</attrlabl>
+				<attrdef>The Police Department&apos;s disciplinary action (if any was taken) taken towards the police officer determined to have been found guilty of the infraction.  This field will be empty if no disciplinary action was taken or the investigation is still open.</attrdef>
+				<attrdefs>SPD</attrdefs>
+			</attr>
+		</detailed>
+	</eainfo>
+</metadata>
